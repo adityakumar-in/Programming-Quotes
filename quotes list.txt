@@ -1,0 +1,10 @@
+A language that doesn't affect the way you think about programming is not worth knowing.
+A good programming language is a conceptual universe for thinking about programming.
+Code is like humor. When you have to explain it, it's bad.
+In order to be irreplaceable, one must always be different.
+Experience is the name everyone gives to their mistakes.
+Programming isn't about what you know; it's about what you can figure out.
+Talk is Cheap, Show me the code.
+It's harder to read code, than to write it.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
